@@ -1,0 +1,7 @@
+C:\Users\dangq\source\repos\TCPSocket\Server\bin\Debug\Server.exe.config
+C:\Users\dangq\source\repos\TCPSocket\Server\bin\Debug\Server.exe
+C:\Users\dangq\source\repos\TCPSocket\Server\bin\Debug\Server.pdb
+C:\Users\dangq\source\repos\TCPSocket\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\dangq\source\repos\TCPSocket\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\dangq\source\repos\TCPSocket\Server\obj\Debug\Server.exe
+C:\Users\dangq\source\repos\TCPSocket\Server\obj\Debug\Server.pdb
